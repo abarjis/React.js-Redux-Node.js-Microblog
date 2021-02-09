@@ -1,4 +1,4 @@
-# React.js-Redux-Node.js-Microblog
+# Microblog
 Microblog using React.js, Redux and Node.js
 
 
